@@ -80,13 +80,11 @@ body {
   border-bottom-color: lightblue;
 }
 
-
 .form-control label {
   position: absolute;
   top: 15px;
   left: 0;
 }
-
 
 .form-control label span {
   display: inline-block;
